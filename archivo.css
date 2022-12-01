@@ -1,0 +1,63 @@
+h1 {
+    color: red;
+}
+h2{
+    color:blue;
+}
+/* Estoy probando colores y fuentes */
+
+
+#encabezado {
+    color: red;
+    font-size: 24pt;
+    text-transform: uppercase;
+}
+#elemento1{
+    color: red;
+    font-size: 24pt;
+    text-transform: capitalize;
+}
+
+#elemento2{
+    font-size: 24pt;
+    text-transform: capitalize;
+}
+
+#elemento3{
+    font-size: 24pt;
+    text-transform:lowercase;
+}
+#elemento4{
+    font-size: 24pt;
+    text-transform: capitalize;
+}
+
+#elemento5{
+    font-size: 24pt;
+    text-transform:lowercase;
+}
+#supermercadola19{
+    color: red;
+    font-size: 24pt;
+    text-transform: capitalize;
+}
+
+#mercatodo{
+    font-size: 24pt;
+    text-transform: capitalize;
+}
+
+#merkar{
+    font-size: 24pt;
+    text-transform:lowercase;
+}
+#multihogar{
+    font-size: 24pt;
+    text-transform: capitalize;
+}
+
+#D1{
+    font-size: 24pt;
+    text-transform:lowercase;
+}
+
